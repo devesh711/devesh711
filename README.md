@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently a student, looking for collaborating in opensource projects,I am learning wev dev , I am looking for help with js
+i am currently a student, looking for collaborating in opensource projects,I am learning web development , I am looking for help with js
 
 
 ## 🌐 Socials:
