@@ -19,7 +19,9 @@ i am currently a student, looking for collaborating in opensource projects,I am 
     </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh711&theme=dark&hide_border=false" alt="Devesh Patel"/></p>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devesh711&theme=github-dark-blue&border_radius=7)](https://git.io/streak-stats)
+
 </div>
 
 ## 🏆 GitHub Trophies
