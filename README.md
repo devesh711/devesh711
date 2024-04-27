@@ -23,6 +23,10 @@ i am currently a student, looking for collaborating in opensource projects,I am 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devesh711&theme=github-dark-blue&border_radius=7)](https://git.io/streak-stats)
 
 </div>
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/devesh711"/>  
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devesh711&theme=radical&no-frame=false&no-bg=true&margin-w=4)
