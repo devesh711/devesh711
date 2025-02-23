@@ -16,26 +16,23 @@ const TextMarqueeCard = () => {
                 margin: "auto"
               }}
             >
-              PERSONAL <b className="ml-1.5">PORTFOLIO</b>{" "}
-              {Array(4)
+              PRESIDENT HACKTHEBOX SRMIST <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+              PROJECT INTERN @ APOLLO TYRES <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+              BUILT CTF PLATFORM <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+              <b className="ml-1.5">AI-POWERED HEALTHCARE SOLUTIONS</b>
+              {Array(3)
                 .fill(0)
                 .map((_, index) => (
                   <Fragment key={index}>
-                    <img
-                      src="/star1.svg"
-                      alt="Star"
-                      className="h-4 w-4 mx-2"
-                    />{" "}
-                    PERSONAL <b className="ml-1.5">PORTFOLIO</b>{" "}
+                    <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+                    PRESIDENT HACKTHEBOX SRMIST <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+                    PROJECT INTERN @ APOLLO TYRES <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+                    BUILT CTF PLATFORM <img src="/star1.svg" alt="Star" className="h-4 w-4 mx-2" />
+                    <b className="ml-1.5">AI-POWERED HEALTHCARE SOLUTIONS</b>
                   </Fragment>
                 ))}
-                <img
-                  src="/star1.svg"
-                  alt="Star"
-                  className="h-4 w-4 mx-2"
-                />
-              </Marquee>
-            </span>
+            </Marquee>
+          </span>
         </div>
       </div>
     </CardWrapper>
