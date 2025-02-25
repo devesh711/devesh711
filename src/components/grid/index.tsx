@@ -49,7 +49,7 @@ const Grid = () => {
 					md: 10,
 					sm: 4,
 				}}
-				isDraggable={true}
+				isDraggable={window.innerWidth >= 1200}
 				rowHeight={height}
 				onBreakpointChange={(breakpoint: any) => {
 					setHeight(heights[breakpoint])
