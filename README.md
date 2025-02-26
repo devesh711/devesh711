@@ -2,7 +2,7 @@
 
 [![An image of @devesh711's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devesh711)](https://holopin.io/@devesh711)
 
-i am currently a student, looking for collaborating in opensource projects,I am learning web development , I am looking for help with js
+i am a student, looking for collaboration on opensource projects, Currently I am learning DevOps and Backend infra.
 
 
 ## 🌐 Socials:
