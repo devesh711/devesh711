@@ -179,7 +179,7 @@ const Grid = () => {
         >
 					<BlurFade delay={0.50}>
 					<ProjectCard 
-						    projectImage="/projects/neurogen.png"
+						    projectImage="/projects/Neurogen.png"
 							projectAlt="Neurogen"
 							companyLogo="/companies/logo_neurogen.png"
 							companyAlt="Neurogen logo"
@@ -205,7 +205,6 @@ const Grid = () => {
 							  companyAlt="Apollo logo"
 							  companyName="Apollo Tyres"
 							  projectTitle="Simulation Request Portal"
-							  projectLink="/"
 							  badges={["FullStack", "Django", "Celery", "Postgres"]}
 					/>
 					</BlurFade>
@@ -219,7 +218,7 @@ const Grid = () => {
         >
 					<BlurFade delay={0.60}>
 					<ProjectCard 
-						    projectImage="/projects/RetroRevive.png"
+						    projectImage="/projects/health-insight.png"
 							projectAlt="Health Insight"
 							companyLogo="/companies/Noirinsight.jpeg"
 							companyAlt="Noirinsight logo"

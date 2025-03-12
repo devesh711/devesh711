@@ -5,7 +5,7 @@ const jobsData = [
   {
     role: "Backend Developer",
     company: "Neurogen",
-    date: "2024 - Present",
+    date: "Nov 2024 - Present",
   },
   {
     role: "Project Intern",

@@ -15,7 +15,7 @@ const IconCard = ({ title, link }: { title: string, link: string }) => {
       classNames: "aspect-[49/48]",
     },
     "Codepen": {
-      src: resolvedTheme === "dark" ? "/social-icons/codepen.svg" : "/social-icons/codepen-dark.svg",
+      src: resolvedTheme === "dark" ? "/social-icons/medium.svg" : "/social-icons/medium-dark.svg",
       classNames: "aspect-square",
     },
     "Email": {

@@ -22,8 +22,7 @@ const AboutCard = () => {
         </div>
 
         <p className="dark:text-white text-slate-900 tracking-wide leading-6 text-xs sm:text-sm">
-          A software developer passionate about building scalable solutions.<br />
-          Currently learning about Scalable Backend and DevOps.
+          A software developer passionate about building scalable solutions. Currently learning about Scalable Backend, CI-CD and DevOps.
         </p>
       </div>
     </CardWrapper>
