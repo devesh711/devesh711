@@ -184,7 +184,7 @@ const Grid = () => {
 							companyLogo="/companies/logo_neurogen.png"
 							companyAlt="Neurogen logo"
 							companyName="Neurogen"
-							projectTitle="Neuorgen"
+							projectTitle="Neurogen"
 							projectLink="https://neurogen.app/portfolio"
 							badges={["Backend + Deployment", "React", "Django", "REST API", "Postgres","AWS"]}
 						/>
