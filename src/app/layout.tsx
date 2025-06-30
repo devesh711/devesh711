@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Analytics } from "@vercel/analytics/react";
 import "./globals.scss";
 import { silka } from "@/fonts";
 import { ThemeProvider } from "next-themes";
-
+import { Analytics } from "@vercel/analytics/next"
 const siteurl =
   process.env.NEXT_PUBLIC_BASE_URL || "https://www.deveshpatel.me";
 
